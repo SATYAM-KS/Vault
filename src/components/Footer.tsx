@@ -67,7 +67,7 @@ const Footer = () => {
               />             
       
             <p className="text-gray-600 text-sm leading-relaxed">
-              Powerful AI-driven automation platform built with cutting-edge technology and crafted with passion.
+            Simplifying student finance through intelligent automation and human-centered design.
             </p>
           
           </div>
