@@ -71,7 +71,7 @@ const Newsletter = () => {
             Join the Waitlist
           </h2>
           <p className="section-subtitle mx-auto opacity-100 fade-in-element">
-            Join our newsletter to receive the latest news, updates, and insights about Vault and its impact on the industry.
+          Be part of our early community. Join the Vault waitlist for exclusive updates, early access, and rewards when we launch.
           </p>
         </div>        
 
